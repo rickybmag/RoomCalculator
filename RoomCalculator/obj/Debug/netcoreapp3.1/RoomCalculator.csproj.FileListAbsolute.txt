@@ -1,0 +1,14 @@
+C:\Users\Rmagdaleno\source\repos\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.exe
+C:\Users\Rmagdaleno\source\repos\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.deps.json
+C:\Users\Rmagdaleno\source\repos\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.runtimeconfig.json
+C:\Users\Rmagdaleno\source\repos\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.runtimeconfig.dev.json
+C:\Users\Rmagdaleno\source\repos\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.dll
+C:\Users\Rmagdaleno\source\repos\RoomCalculator\RoomCalculator\bin\Debug\netcoreapp3.1\RoomCalculator.pdb
+C:\Users\Rmagdaleno\source\repos\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.csproj.AssemblyReference.cache
+C:\Users\Rmagdaleno\source\repos\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rmagdaleno\source\repos\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.AssemblyInfoInputs.cache
+C:\Users\Rmagdaleno\source\repos\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.AssemblyInfo.cs
+C:\Users\Rmagdaleno\source\repos\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Rmagdaleno\source\repos\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.dll
+C:\Users\Rmagdaleno\source\repos\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.pdb
+C:\Users\Rmagdaleno\source\repos\RoomCalculator\RoomCalculator\obj\Debug\netcoreapp3.1\RoomCalculator.genruntimeconfig.cache
